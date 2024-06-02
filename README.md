@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashu12355
 - 👀 I’m interested in java programming
-- 🌱 I’m currently learning advance java 
+- 🌱 I’m Full Stack Java Developer
 - 💞️ I’m looking to collaborate on java projects
 - 📫 How to reach me LinkedIn : www.linkedin.com/in/ashutosh-sharma-2b3635125
 
