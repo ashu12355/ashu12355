@@ -1,9 +1,9 @@
 # Ashutosh Sharma
 
-👋 Hi, I’m @ashu12355  
+👋 Hi, I’m Ashutosh 
 🌱 I’m a Full Stack Java Developer
 👀 I’m interested in Java and Web Development .
-💞️ I’m looking to collaborate on Java SpringBoot projects  
+💞️ I’m looking to collaborate on Java SpringBoot projects and Web Projects.
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashutosh-sharma-2b3635125)
 
 ## Table of Contents
