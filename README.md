@@ -9,6 +9,7 @@
 ## Table of Contents
 - [Skills](#skills)
 - [Projects](#projects)
+- [Tools](#tools)
 - [Contact Information](#contact-information)
 
 ## Skills
@@ -34,6 +35,14 @@ Here are some of the technologies and tools that I work with:
 - Hotel-Management: [Repository Link](https://github.com/ashu12355/Hotel-Management)
 - Text-Manager-Real-time-Statistical-Analysis-Tool: [Repository Link](https://github.com/ashu12355/Text-Manager-Real-time-Statistical-Analysis-Tool)
 - Faq-Application: [Repository Link](https://github.com/ashu12355/Faq-Application)
+
+## Tools
+Here are some of the tools that I work with:
+
+![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
+![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat-square&logo=eclipse-ide)
+![Apache NetBeans](https://img.shields.io/badge/-Apache%20NetBeans-black?style=flat-square&logo=apache-netbeans-ide)
+![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-black?style=flat-square&logo=mysql)
 
 ## Contact Information
 - GitHub: [@ashu12355](https://github.com/ashu12355)
