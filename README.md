@@ -14,7 +14,7 @@
 
 ## Skills
 
-Here are some of the technologies and tools that I work with:
+Here are some of the technologies that I work with:
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=springboot)
