@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashu12355
-- 👀 I’m interested in java programming
-- 🌱 I’m Full Stack Java Developer
-- 💞️ I’m looking to collaborate on java projects
+- 👀 I’m interested in java and web Development
+- 🌱 I’m Full Stack Java Developer 
+- 💞️ I’m looking to collaborate on java SpringBoot projects
 - 📫 How to reach me LinkedIn : www.linkedin.com/in/ashutosh-sharma-2b3635125
 
 <!---
