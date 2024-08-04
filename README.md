@@ -1,15 +1,16 @@
 # Ashutosh Sharma
 
-👋 Hi, I’m Ashutosh .
-🌱 I’m a Full Stack Java Developer.
-👀 I’m interested in Java and Web Development.
-💞️ I’m looking to collaborate on Java SpringBoot projects and Web Projects.
+👋 Hi, I’m Ashutosh.  
+🌱 I’m a Full Stack Java Developer.  
+👀 I’m interested in Java and Web Development.  
+💞️ I’m looking to collaborate on Java SpringBoot projects and Web Projects.  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashutosh-sharma-2b3635125)
 
 ## Table of Contents
 - [Skills](#skills)
 - [Projects](#projects)
 - [Tools](#tools)
+- [GitHub Stats](#github-stats)
 - [Contact Information](#contact-information)
 
 ## Skills
@@ -20,6 +21,7 @@ Here are some of the technologies that I work with:
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=springboot)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
@@ -27,16 +29,19 @@ Here are some of the technologies that I work with:
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 ## Projects
-- Portfolio: [Repository Link](https://github.com/ashu12355/Portfolio)
-- ReactJs-Project: [Repository Link](https://github.com/ashu12355/ReactJs-Project-)
-- Daily-Quote-Application: [Repository Link](https://github.com/ashu12355/Daily-Quote-Application)
-- NextGen-Contact-Manager: [Repository Link](https://github.com/ashu12355/NextGen-Contact-Manager)
-- ReactJs-Project: [Repository Link](https://github.com/ashu12355/ReactJs-Project)
-- Hotel-Management: [Repository Link](https://github.com/ashu12355/Hotel-Management)
-- Text-Manager-Real-time-Statistical-Analysis-Tool: [Repository Link](https://github.com/ashu12355/Text-Manager-Real-time-Statistical-Analysis-Tool)
-- Faq-Application: [Repository Link](https://github.com/ashu12355/Faq-Application)
+
+| Project Name | Repository Link | Stars | Forks | Total Commits |
+|--------------|-----------------|-------|-------|---------------|
+| Portfolio | [Repository Link](https://github.com/ashu12355/Portfolio) | ![GitHub stars](https://img.shields.io/github/stars/ashu12355/Portfolio?style=social) | ![GitHub forks](https://img.shields.io/github/forks/ashu12355/Portfolio?style=social) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ashu12355/Portfolio) |
+| Hotel-Management | [Repository Link](https://github.com/ashu12355/Hotel-Management) | ![GitHub stars](https://img.shields.io/github/stars/ashu12355/Hotel-Management?style=social) | ![GitHub forks](https://img.shields.io/github/forks/ashu12355/Hotel-Management?style=social) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ashu12355/Hotel-Management) |
+| Daily-Quote-Application | [Repository Link](https://github.com/ashu12355/Daily-Quote-Application) | ![GitHub stars](https://img.shields.io/github/stars/ashu12355/Daily-Quote-Application?style=social) | ![GitHub forks](https://img.shields.io/github/forks/ashu12355/Daily-Quote-Application?style=social) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ashu12355/Daily-Quote-Application) |
+| NextGen-Contact-Manager | [Repository Link](https://github.com/ashu12355/NextGen-Contact-Manager) | ![GitHub stars](https://img.shields.io/github/stars/ashu12355/NextGen-Contact-Manager?style=social) | ![GitHub forks](https://img.shields.io/github/forks/ashu12355/NextGen-Contact-Manager?style=social) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ashu12355/NextGen-Contact-Manager) |
+| Faq-Application | [Repository Link](https://github.com/ashu12355/Faq-Application) | ![GitHub stars](https://img.shields.io/github/stars/ashu12355/Faq-Application?style=social) | ![GitHub forks](https://img.shields.io/github/forks/ashu12355/Faq-Application?style=social) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ashu12355/Faq-Application) |
+| Book-Store | [Repository Link](https://github.com/ashu12355/Book-Store.git) | ![GitHub stars](https://img.shields.io/github/stars/ashu12355/Book-Store?style=social) | ![GitHub forks](https://img.shields.io/github/forks/ashu12355/Book-Store?style=social) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ashu12355/Book-Store) |
+| Text-Manager-Real-time-Statistical-Analysis-Tool | [Repository Link](https://github.com/ashu12355/Text-Manager-Real-time-Statistical-Analysis-Tool) | ![GitHub stars](https://img.shields.io/github/stars/ashu12355/Text-Manager-Real-time-Statistical-Analysis-Tool?style=social) | ![GitHub forks](https://img.shields.io/github/forks/ashu12355/Text-Manager-Real-time-Statistical-Analysis-Tool?style=social) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ashu12355/Text-Manager-Real-time-Statistical-Analysis-Tool) |
 
 ## Tools
+
 Here are some of the tools that I work with:
 
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
@@ -44,6 +49,14 @@ Here are some of the tools that I work with:
 ![Apache NetBeans](https://img.shields.io/badge/-Apache%20NetBeans-black?style=flat-square&logo=apache-netbeans-ide)
 ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-black?style=flat-square&logo=mysql)
 
+## GitHub Stats
+
+![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashu12355&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashu12355&layout=compact&theme=radical)
+
 ## Contact Information
+
+Feel free to reach out to me on any of the following platforms:
+
 - GitHub: [@ashu12355](https://github.com/ashu12355)
 - LinkedIn: [Ashutosh Sharma](https://www.linkedin.com/in/ashutosh-sharma-2b3635125)
