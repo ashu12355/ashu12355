@@ -39,6 +39,7 @@ Here are some of the technologies that I work with:
 | Faq-Application | [Repository Link](https://github.com/ashu12355/Faq-Application) | ![GitHub stars](https://img.shields.io/github/stars/ashu12355/Faq-Application?style=social) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ashu12355/Faq-Application) |
 | Book-Store | [Repository Link](https://github.com/ashu12355/Book-Store.git) | ![GitHub stars](https://img.shields.io/github/stars/ashu12355/Book-Store?style=social) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ashu12355/Book-Store) |
 | Text-Manager-Real-time-Statistical-Analysis-Tool | [Repository Link](https://github.com/ashu12355/Text-Manager-Real-time-Statistical-Analysis-Tool) | ![GitHub stars](https://img.shields.io/github/stars/ashu12355/Text-Manager-Real-time-Statistical-Analysis-Tool?style=social) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ashu12355/Text-Manager-Real-time-Statistical-Analysis-Tool) |
+| TechTrekker-Blog Website | [Repository Link](https://github.com/ashu12355/Tech-Trekker) | ![GitHub stars](https://img.shields.io/github/stars/ashu12355/Tech-Trekker?style=social) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ashu12355/Tech-Trekker) |
 
 ## Tools
 
