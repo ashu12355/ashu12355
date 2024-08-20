@@ -32,7 +32,6 @@ Here are some of the technologies that I work with:
 
 | Project Name | Repository Link | Stars | Total Commits |
 |--------------|-----------------|-------|---------------|
-| Portfolio | [Repository Link](https://github.com/ashu12355/Portfolio) | ![GitHub stars](https://img.shields.io/github/stars/ashu12355/Portfolio?style=social) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ashu12355/Portfolio) |
 | Investment-Calculator | [Repository Link](https://github.com/ashu12355/Investment-Calculator) | ![GitHub stars](https://img.shields.io/github/stars/ashu12355/Investment-Calculator?style=social) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ashu12355/Investment-Calculator) |
 | Hotel-Management | [Repository Link](https://github.com/ashu12355/Hotel-Management) | ![GitHub stars](https://img.shields.io/github/stars/ashu12355/Hotel-Management?style=social) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ashu12355/Hotel-Management) |
 | Daily-Quote-Application | [Repository Link](https://github.com/ashu12355/Daily-Quote-Application) | ![GitHub stars](https://img.shields.io/github/stars/ashu12355/Daily-Quote-Application?style=social) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ashu12355/Daily-Quote-Application) |
@@ -41,6 +40,7 @@ Here are some of the technologies that I work with:
 | Book-Store | [Repository Link](https://github.com/ashu12355/Book-Store.git) | ![GitHub stars](https://img.shields.io/github/stars/ashu12355/Book-Store?style=social) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ashu12355/Book-Store) |
 | Text-Manager-Real-time-Statistical-Analysis-Tool | [Repository Link](https://github.com/ashu12355/Text-Manager-Real-time-Statistical-Analysis-Tool) | ![GitHub stars](https://img.shields.io/github/stars/ashu12355/Text-Manager-Real-time-Statistical-Analysis-Tool?style=social) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ashu12355/Text-Manager-Real-time-Statistical-Analysis-Tool) |
 | TechTrekker-Blog Website | [Repository Link](https://github.com/ashu12355/Tech-Trekker) | ![GitHub stars](https://img.shields.io/github/stars/ashu12355/Tech-Trekker?style=social) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ashu12355/Tech-Trekker) |
+| Portfolio | [Repository Link](https://github.com/ashu12355/Portfolio) | ![GitHub stars](https://img.shields.io/github/stars/ashu12355/Portfolio?style=social) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ashu12355/Portfolio) |
 
 ## Tools
 
