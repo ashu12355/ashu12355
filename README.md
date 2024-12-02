@@ -67,7 +67,7 @@ Here are some of the tools I work with:
 
 ![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashu12355&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashu12355&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashu12355&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashu12355&theme=radical&hide_border=true)
 
 ---
 
