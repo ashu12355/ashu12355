@@ -1,79 +1,74 @@
 # Ashutosh Sharma
 
-👋 Hi, I’m Ashutosh.  
-🌱 I’m a Full Stack Developer.  
-👀 I’m interested in Java and Web Development.  
-💞️ I’m looking to collaborate on Java SpringBoot projects and Web Projects.  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashutosh-sharma-2b3635125)
+<h1 align="center">Hey there, I'm Ashutosh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-🚀 **Currently:** Software Trainee Intern at Yusata Infotech Pvt Ltd.
+🌱 **Full Stack Developer** | 🚀 **Tech Enthusiast** | 💡 **Problem Solver**
 
----
-
-## Table of Contents
-- [Skills](#skills)
-- [Projects](#projects)
-- [Tools](#tools)
-- [GitHub Stats](#github-stats)
-- [Contact Information](#contact-information)
+👀 Passionate about **Java, Web Development, and Spring Boot**.
+💼 Currently **Software Trainee Intern at Yusata Infotech Pvt Ltd**.
+🔭 Looking to collaborate on **Java Spring Boot and Web Projects**.
+📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/ashutosh-sharma-2b3635125)**.
 
 ---
 
-## Skills
+## 🚀 Skills & Technologies
 
-Here are some of the technologies I work with:
-
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=springboot)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
-## Projects
+## 🏆 GitHub Stats
 
-| Project Name                               | Repository Link                                                                                         | Stars                                                                                      | Total Commits                                                                                      |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashu12355&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashu12355&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashu12355&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+| Project Name                               | Repository Link                                                                                         | Stars                                                                                      | Commits                                                                                      |
 |-------------------------------------------|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| Investment-Calculator                      | [Repository Link](https://github.com/ashu12355/Investment-Calculator)                                  | ![GitHub stars](https://img.shields.io/github/stars/ashu12355/Investment-Calculator?style=social)     | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ashu12355/Investment-Calculator) |
-| Hotel-Management                           | [Repository Link](https://github.com/ashu12355/Hotel-Management)                                       | ![GitHub stars](https://img.shields.io/github/stars/ashu12355/Hotel-Management?style=social)         | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ashu12355/Hotel-Management)        |
-| Daily-Quote-Application                    | [Repository Link](https://github.com/ashu12355/Daily-Quote-Application)                                | ![GitHub stars](https://img.shields.io/github/stars/ashu12355/Daily-Quote-Application?style=social)  | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ashu12355/Daily-Quote-Application)  |
-| AI-Trip-Planner                            | [Repository Link](https://github.com/ashu12355/AI-Trip-Planner.git)                                    | ![GitHub stars](https://img.shields.io/github/stars/ashu12355/AI-Trip-Planner?style=social)          | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ashu12355/AI-Trip-Planner)          |
-| Faq-Application                            | [Repository Link](https://github.com/ashu12355/Faq-Application)                                        | ![GitHub stars](https://img.shields.io/github/stars/ashu12355/Faq-Application?style=social)          | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ashu12355/Faq-Application)          |
-| Book-Store                                 | [Repository Link](https://github.com/ashu12355/Book-Store.git)                                         | ![GitHub stars](https://img.shields.io/github/stars/ashu12355/Book-Store?style=social)               | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ashu12355/Book-Store)               |
-| Text-Manager-Real-time-Statistical-Analysis-Tool | [Repository Link](https://github.com/ashu12355/Text-Manager-Real-time-Statistical-Analysis-Tool) | ![GitHub stars](https://img.shields.io/github/stars/ashu12355/Text-Manager-Real-time-Statistical-Analysis-Tool?style=social) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ashu12355/Text-Manager-Real-time-Statistical-Analysis-Tool) |
-| TechTrekker-Blog Website                   | [Repository Link](https://github.com/ashu12355/Tech-Trekker)                                           | ![GitHub stars](https://img.shields.io/github/stars/ashu12355/Tech-Trekker?style=social)             | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ashu12355/Tech-Trekker)             |
-| Portfolio                                  | [Repository Link](https://github.com/ashu12355/Portfolio)                                              | ![GitHub stars](https://img.shields.io/github/stars/ashu12355/Portfolio?style=social)                | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ashu12355/Portfolio)                |
+| Investment Calculator                      | [Repository Link](https://github.com/ashu12355/Investment-Calculator)                                  | ![GitHub stars](https://img.shields.io/github/stars/ashu12355/Investment-Calculator?style=social)     | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ashu12355/Investment-Calculator) |
+| AI Trip Planner                            | [Repository Link](https://github.com/ashu12355/AI-Trip-Planner.git)                                    | ![GitHub stars](https://img.shields.io/github/stars/ashu12355/AI-Trip-Planner?style=social)          | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ashu12355/AI-Trip-Planner)          |
+| Book Store                                 | [Repository Link](https://github.com/ashu12355/Book-Store.git)                                         | ![GitHub stars](https://img.shields.io/github/stars/ashu12355/Book-Store?style=social)               | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ashu12355/Book-Store)               |
+| TechTrekker Blog                           | [Repository Link](https://github.com/ashu12355/Tech-Trekker)                                           | ![GitHub stars](https://img.shields.io/github/stars/ashu12355/Tech-Trekker?style=social)             | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ashu12355/Tech-Trekker)             |
+
+🔗 Check out more on [My GitHub Repositories](https://github.com/ashu12355?tab=repositories).
 
 ---
 
-## Tools
+## 🛠 Tools & IDEs
 
-Here are some of the tools I work with:
-
-![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
-![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat-square&logo=eclipse-ide)
-![Apache NetBeans](https://img.shields.io/badge/-Apache%20NetBeans-black?style=flat-square&logo=apache-netbeans-ide)
-![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-black?style=flat-square&logo=mysql)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
+![NetBeans](https://img.shields.io/badge/-NetBeans-blue?style=for-the-badge&logo=apache-netbeans-ide)
+![MySQL Workbench](https://img.shields.io/badge/-MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql)
 
 ---
 
-## GitHub Stats
+## 📬 Connect with Me
 
-![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashu12355&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashu12355&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashu12355&theme=radical&hide_border=true)
+<p align="center">
+  <a href="https://github.com/ashu12355"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/ashutosh-sharma-2b3635125"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
----
-
-## Contact Information
-
-Feel free to reach out to me on any of the following platforms:
-
-- GitHub: [@ashu12355](https://github.com/ashu12355)  
-- LinkedIn: [Ashutosh Sharma](https://www.linkedin.com/in/ashutosh-sharma-2b3635125)
+🌟 **Thanks for visiting! Keep coding and innovating!** 🚀
