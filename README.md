@@ -5,7 +5,7 @@
 🌱 **Full Stack Developer** | 🚀 **Tech Enthusiast** | 💡 **Problem Solver**
 
 ```👀 Passionate about **Java, Web Development, and Spring Boot**.```  
-```💼 Currently **Software Trainee Intern at Yusata Infotech Pvt Ltd**.```  
+```💼 Currently **Software Developer at Yusata Infotech Pvt Ltd**.```  
 ```🔭 Looking to collaborate on **Java Spring Boot and Web Projects**.```  
 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/ashutosh-sharma-2b3635125)**.
 
