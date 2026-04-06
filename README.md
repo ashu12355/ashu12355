@@ -5,9 +5,9 @@
 🌱 **Full Stack Developer** | 🚀 **Tech Enthusiast** | 💡 **Problem Solver**
 
 ```👀 Passionate about **Java, Web Development, and Spring Boot**.```  
-```💼 Currently **Software Developer at Yusata Infotech Pvt Ltd**.```  
+```💼 Currently **Software Developer at Yusata Infotech Pvt Ltd -YOE :1.5+ **.```  
 ```🔭 Looking to collaborate on **Java Spring Boot and Web Projects**.```  
-📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/ashutosh-sharma-2b3635125)**.
+📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/ashu12355)**.
 
 ---
 
@@ -68,7 +68,7 @@
 
 <p align="center">
   <a href="https://github.com/ashu12355"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/ashutosh-sharma-2b3635125"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/ashu12355"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 🌟 **Thanks for visiting! Keep coding and innovating!** 🚀
